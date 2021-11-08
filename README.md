@@ -8,3 +8,6 @@ This project focus on finding the relationships between stock data, mainly on Ho
 
 I use Python and the enviroments for coding are IDLE Python ver 3.9 for cleaning data and Jupyter Notebook for the model part.
 By using K-means clustering and hierarchical clustering to find the stock pair having similiar pattern. I will check the result by the Pearson correlation coefficient.
+
+
+The order of files is all_to_one; txt_to_csv; avg and finally is StockDataModeling
